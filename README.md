@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gaspar
+- 👀 I’m interested in Front end dev
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on B Corps
+- 📫 How to reach me -> gcastello@applica.dev
